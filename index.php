@@ -59,7 +59,7 @@
     </header>
 
     <video autoplay muted loop id="background-video">
-        <source src="./video2.mp4" type="video/mp4">
+        <source src="./video/video2.mp4" type="video/mp4">
     </video>
    <div >
      <img
